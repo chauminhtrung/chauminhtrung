@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Châu Minh Trung</h1>
 <h3 align="center">student</h3>
-<img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoKs59_YvoAmxtPhgUigGbCcz4yrtmtBjvA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauminhtrung&label=Profile%20views&color=0e75b6&style=flat" alt="chauminhtrung" /> </p>
 
