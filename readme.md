@@ -14,7 +14,7 @@
 <a href="https://github.com/chauminhtrung">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/trung-minh-482a79335/">
+<a href="https://www.linkedin.com/in/trung-minh-482a79335">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 <a href="https://www.instagram.com/c.mtrung/">
