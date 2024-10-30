@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Image/hero_banner.svg">
+<img src="Image/Hero_banner.svg">
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
@@ -77,6 +77,4 @@
 <div align="center">
 
 ---
-
-<img src="img/with_love.png">
 </div>
