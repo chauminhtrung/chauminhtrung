@@ -1,21 +1,82 @@
-<h1 align="center">Hi 👋, I'm Châu Minh Trung</h1>
-<h3 align="center">student</h3>
-<img align="left" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoKs59_YvoAmxtPhgUigGbCcz4yrtmtBjvA&usqp=CAU">
+<div align="center">
+<img src="Image/hero_banner.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauminhtrung&label=Profile%20views&color=0e75b6&style=flat" alt="chauminhtrung" /> </p>
+<!-- uncomment to change banner
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
+-->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- ⚡ Fun fact **i think i am funny**
+<!--Header: end-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/trung minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trung minh" height="30" width="40" /></a>
-</p>
+<!--Social Links Badges: start-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+<a href="https://github.com/chauminhtrung">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/trung-minh-482a79335/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+<a href="https://www.instagram.com/c.mtrung/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.goodreads.com/user/show/183246876-trung-minh">
+  <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213">
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauminhtrung&show_icons=true&locale=en&layout=compact" alt="chauminhtrung" /></p>
+<!--Social Links Badges: end-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauminhtrung&" alt="chauminhtrung" /></p>
+<!--About me: start-->
+<img src="Image/hi_there.png">
+
+<p>My name is Minh Trung. I’m a passionate developer from Vietnam with a strong interest in software, particularly the web. Currently, I’m learning blockchain to expand my skills in web development. I'm also studying graphic design, which allows me to combine aesthetics with technology in creative ways. Outside work, I enjoy playing games and reading to unwind and gain new insights. I look forward to connecting and learning from the developer community!</p>
+
+<!--About me: end-->
+
+<!--Tech stack: start-->
+
+<img src="Image/tech_stack.png">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,sqlserver,git,github,firebase,vscode,idea,angular,spring,typescript,maven,docker,vite,react,vercel,bootstrap,eclipse,npm,nodejs" />
+
+<!--Tech stack: end-->
+
+<!--Statistics: start-->
+
+<img src="Image/statistics.png">
+
+  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=chauminhtrung&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauminhtrung&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
+
+<!--Statistics: end-->
+
+<!--More Details: start-->
+
+<img src="Image/more_things.png">
+</div>
+
+### Currently I'm reading
+
+<!-- CURRENT:START -->
+- [Out on a Limb](https://www.goodreads.com/review/show/6966355831) by Hannah Bonam-Young  (⭐️4.5)
+- [Earth to Moon: A Memoir](https://www.goodreads.com/review/show/6966360290) by Moon Unit Zappa (⭐️4)
+<!-- CURRENT:END -->
+
+### And these are my top 3 recommendations:
+
+<!-- TOP-FIVE:START -->
+- [Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age](https://www.goodreads.com/review/show/6966362811) by Eric Berger (⭐️4.38)
+- [Lucy Undying]([https://www.goodreads.com/review/show/5163920324?utm_medium=api&utm_source=rss](https://www.goodreads.com/review/show/6966365110)) by Kiersten White (⭐️4.35)
+- [The Swifts: A Gallery of Rogues](https://www.goodreads.com/review/show/6966367461) by Beth Lincoln, Claire Powell (⭐️4.23)
+
+<!-- TOP-FIVE:END -->
+
+<!--More Details: end-->
+
+<!--Footer: start-->
+<div align="center">
+
+---
+
+<img src="img/with_love.png">
+</div>
