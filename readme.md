@@ -37,7 +37,7 @@
 
 <img src="Image/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,sqlserver,git,github,firebase,vscode,idea,angular,spring,typescript,maven,docker,vite,react,vercel,bootstrap,eclipse,npm,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,firebase,vscode,idea,angular,spring,typescript,maven,docker,vite,react,vercel,bootstrap,eclipse,npm,nodejs" />
 
 <!--Tech stack: end-->
 
